@@ -1,7 +1,7 @@
 {
 	"intro": {
-		"start": "const Andrew = ( name, passion ) =>",
-		"end": "Hello, my name is",
+		"start": "Jahongir = lambda name, passion: None",
+		"end": "print(Hello, my name is)",
 		"speed": 60,
 		"deletionSpeed": 80,
 		"wrapper": "h2",
@@ -11,7 +11,7 @@
 	},
 
 	"header": {
-		"name": "Andrew Nelson.",
+		"name": "Jahongir.",
 		"usp": "I design and build meaningful experiences."
 	},
 
@@ -20,12 +20,12 @@
 	"buttons": {
 		"primary": {
 			"title": "Contact Me",
-			"url": "",
+			"url": "https://t.me/ja_khan_gir",
 			"leaveSite": false
 		},
 		"secondary": {
-			"title": "LinkedIn",
-			"url": "",
+			"title": "GitHub",
+			"url": "https://github.com/JahongirHakimjonov/",
 			"leaveSite": "true"
 		}
 	}
